@@ -122,16 +122,10 @@ The system evaluates performance using:
 └── preprocessed_jira_data.csv    # Preprocessed dataset
 ```
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-[Add your license information here]
-
 ## Authors
 - Mohammad Bin Yousuf (CU# 101239019)
 - Vrishab Prasanth Davey (UO# 300438343)
 - Surendar Pala Dana Sekaran (UO#300401916)
 
 ## Acknowledgments
-This project was developed as part of the CSI5137 - Applications of NLP and ML in Software Engineering course.
+This project was developed as part of the CSI5137 - Applications of NLP and ML in Software Engineering course under Professor Mehrdad Sabetzadeh.
