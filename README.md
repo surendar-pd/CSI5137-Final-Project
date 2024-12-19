@@ -128,4 +128,4 @@ The system evaluates performance using:
 - Surendar Pala Dana Sekaran (UO#300401916)
 
 ## Acknowledgments
-This project was developed as part of the CSI5137 - Applications of NLP and ML in Software Engineering course under Professor Mehrdad Sabetzadeh.
+This project was developed as part of the CSI5137 - Applications of NLP and ML in Software Engineering course under the guidance of Professor Mehrdad Sabetzadeh.
